@@ -1,3 +1,1 @@
-<?php
-	header("Location: login.php");
-?>
+<meta http-equiv="refresh" content="delay_time; URL=login.php" />
